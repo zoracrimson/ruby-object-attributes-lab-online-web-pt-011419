@@ -1,6 +1,6 @@
 class Dog 
   
-  fido = Dog.new 
+  fido = Dog.new("Fido") 
   
   fido.name = "Fido"
   
